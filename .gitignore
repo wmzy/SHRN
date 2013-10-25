@@ -1,0 +1,5 @@
+#vsf files
+*.suo
+obj/
+Debug/
+
